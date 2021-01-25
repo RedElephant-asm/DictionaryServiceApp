@@ -1,2 +1,0 @@
-record4;запись4
-another;иная

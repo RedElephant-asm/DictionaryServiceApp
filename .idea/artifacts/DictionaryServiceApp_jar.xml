@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DictionaryServiceApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DictionaryServiceApp</output-path>
+    <root id="archive" name="DictionaryServiceApp.jar">
+      <element id="module-output" name="DictionaryServiceApp" />
+      <element id="library" level="project" name="DictionaryServiceApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/SimpleDictionaryService/SimpleDictionaryService.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

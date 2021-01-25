@@ -30,6 +30,7 @@ public class Application implements Runnable, Interruptible {
         Thread consoleListenerThread = new Thread(consoleListener);
         consoleListenerThread.start();
         String currentCommand = "";
+        System.out.println("[Dictionary service app]");
         while (isActive.get()){
             handledWait(consoleListener);
             currentCommand = consoleListener.getCurrentCommand();

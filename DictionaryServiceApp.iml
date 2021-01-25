@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SimpleDictionaryService" level="project" />
+    <orderEntry type="library" name="DictionaryServiceApp" level="project" />
   </component>
 </module>
