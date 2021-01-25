@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimpleDictionaryService">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleDictionaryService/SimpleDictionaryService.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
